@@ -44,7 +44,7 @@ img{
 	.box{
 		float:none;
 		width:90%;
-		margin-right: none;
+		margin-right: 0;
 		margin-bottom:20px;
 	}
 	img{
